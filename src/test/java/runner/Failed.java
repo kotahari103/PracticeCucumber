@@ -15,6 +15,6 @@ import io.cucumber.junit.CucumberOptions;
 		plugin = {"pretty","html:target/cucumber-reports/report_html.html",}
 		
 		)
-public class TestRunnerFailed {
+public class Failed {
 
 }

@@ -1,73 +1,8 @@
-[FATAL] 2025-07-25 01:39:25.516 [main] StepDefinition - Setup1 executed...
-[INFO ] 2025-07-25 01:39:25.523 [main] StepDefinition - before step executed
-[INFO ] 2025-07-25 01:39:25.533 [main] StepDefinition - after step executed
-[INFO ] 2025-07-25 01:39:25.535 [main] StepDefinition - before step executed
-[INFO ] 2025-07-25 01:39:25.536 [main] StepDefinition - after step executed
-[INFO ] 2025-07-25 01:39:25.537 [main] StepDefinition - before step executed
-[INFO ] 2025-07-25 01:39:25.538 [main] StepDefinition - clicks on submit
-[INFO ] 2025-07-25 01:39:25.540 [main] StepDefinition - after step executed
-[INFO ] 2025-07-25 01:39:25.540 [main] StepDefinition - before step executed
-[INFO ] 2025-07-25 01:39:25.542 [main] StepDefinition - user validates main header
-[INFO ] 2025-07-25 01:39:25.573 [main] StepDefinition - after step executed
-[INFO ] 2025-07-25 01:39:25.575 [main] StepDefinition - tear down method
-[FATAL] 2025-07-25 02:16:29.011 [main] StepDefinition - Setup1 executed...
-[INFO ] 2025-07-25 02:16:29.020 [main] StepDefinition - before step executed
-[INFO ] 2025-07-25 02:16:29.030 [main] StepDefinition - after step executed
-[INFO ] 2025-07-25 02:16:29.031 [main] StepDefinition - before step executed
-[INFO ] 2025-07-25 02:16:29.033 [main] StepDefinition - after step executed
-[INFO ] 2025-07-25 02:16:29.033 [main] StepDefinition - before step executed
-[INFO ] 2025-07-25 02:16:29.035 [main] StepDefinition - clicks on submit
-[INFO ] 2025-07-25 02:16:29.035 [main] StepDefinition - after step executed
-[INFO ] 2025-07-25 02:16:29.036 [main] StepDefinition - before step executed
-[INFO ] 2025-07-25 02:16:29.039 [main] StepDefinition - user validates main header
-[INFO ] 2025-07-25 02:16:29.040 [main] StepDefinition - after step executed
-[INFO ] 2025-07-25 02:16:29.040 [main] StepDefinition - tear down method
-[FATAL] 2025-07-31 15:33:49.210 [main] StepDefinition - Setup1 executed...
-[INFO ] 2025-07-31 15:33:49.219 [main] StepDefinition - before step executed
-[INFO ] 2025-07-31 15:33:49.226 [main] StepDefinition - after step executed
-[INFO ] 2025-07-31 15:33:49.227 [main] StepDefinition - before step executed
-[INFO ] 2025-07-31 15:33:49.228 [main] StepDefinition - after step executed
-[INFO ] 2025-07-31 15:33:49.229 [main] StepDefinition - before step executed
-[INFO ] 2025-07-31 15:33:49.230 [main] StepDefinition - clicks on submit
-[INFO ] 2025-07-31 15:33:49.230 [main] StepDefinition - after step executed
-[INFO ] 2025-07-31 15:33:49.231 [main] StepDefinition - before step executed
-[INFO ] 2025-07-31 15:33:49.233 [main] StepDefinition - user validates main header
-[INFO ] 2025-07-31 15:33:49.234 [main] StepDefinition - after step executed
-[INFO ] 2025-07-31 15:33:49.235 [main] StepDefinition - tear down method
-[FATAL] 2025-07-31 15:36:34.288 [main] StepDefinition - Setup1 executed...
-[INFO ] 2025-07-31 15:36:34.297 [main] StepDefinition - before step executed
-[INFO ] 2025-07-31 15:36:34.304 [main] StepDefinition - after step executed
-[INFO ] 2025-07-31 15:36:34.305 [main] StepDefinition - before step executed
-[INFO ] 2025-07-31 15:36:34.307 [main] StepDefinition - after step executed
-[INFO ] 2025-07-31 15:36:34.307 [main] StepDefinition - before step executed
-[INFO ] 2025-07-31 15:36:34.309 [main] StepDefinition - clicks on submit
-[INFO ] 2025-07-31 15:36:34.310 [main] StepDefinition - after step executed
-[INFO ] 2025-07-31 15:36:34.311 [main] StepDefinition - before step executed
-[INFO ] 2025-07-31 15:36:34.313 [main] StepDefinition - user validates main header
-[INFO ] 2025-07-31 15:36:34.314 [main] StepDefinition - after step executed
-[INFO ] 2025-07-31 15:36:34.314 [main] StepDefinition - tear down method
-[FATAL] 2025-07-31 15:41:03.191 [main] StepDefinition - Setup1 executed...
-[INFO ] 2025-07-31 15:41:03.201 [main] StepDefinition - before step executed
-[INFO ] 2025-07-31 15:41:03.210 [main] StepDefinition - after step executed
-[INFO ] 2025-07-31 15:41:03.211 [main] StepDefinition - before step executed
-[INFO ] 2025-07-31 15:41:03.214 [main] StepDefinition - after step executed
-[INFO ] 2025-07-31 15:41:03.215 [main] StepDefinition - before step executed
-[INFO ] 2025-07-31 15:41:03.217 [main] StepDefinition - clicks on submit
-[INFO ] 2025-07-31 15:41:03.218 [main] StepDefinition - after step executed
-[INFO ] 2025-07-31 15:41:03.219 [main] StepDefinition - before step executed
-[INFO ] 2025-07-31 15:41:03.223 [main] StepDefinition - user validates main header
-[INFO ] 2025-07-31 15:41:03.224 [main] StepDefinition - after step executed
-[INFO ] 2025-07-31 15:41:03.226 [main] StepDefinition - tear down method
-[FATAL] 2025-07-31 15:48:39.527 [main] StepDefinition - Setup1 executed...
-[INFO ] 2025-07-31 15:48:39.538 [main] StepDefinition - before step executed
-[INFO ] 2025-07-31 15:48:39.547 [main] StepDefinition - before step executed
-[INFO ] 2025-07-31 15:48:39.551 [main] StepDefinition - before step executed
-[INFO ] 2025-07-31 15:48:39.553 [main] StepDefinition - clicks on submit
-[INFO ] 2025-07-31 15:48:39.555 [main] StepDefinition - before step executed
-[INFO ] 2025-07-31 15:48:39.558 [main] StepDefinition - user validates main header
-[INFO ] 2025-07-31 15:48:39.560 [main] StepDefinition - tear down method
-[FATAL] 2025-07-31 15:50:18.065 [main] StepDefinition - Setup1 executed...
-[INFO ] 2025-07-31 15:50:18.072 [main] StepDefinition - before step executed
-[INFO ] 2025-07-31 15:50:18.083 [main] StepDefinition - before step executed
-[INFO ] 2025-07-31 15:50:18.086 [main] StepDefinition - before step executed
-[INFO ] 2025-07-31 15:50:18.099 [main] StepDefinition - tear down method
+[FATAL] 2025-07-31 17:11:50.686 [main] StepDefinition - Setup1 executed...
+[INFO ] 2025-07-31 17:11:50.695 [main] StepDefinition - before step executed
+[INFO ] 2025-07-31 17:11:50.705 [main] StepDefinition - before step executed
+[INFO ] 2025-07-31 17:11:50.708 [main] StepDefinition - before step executed
+[INFO ] 2025-07-31 17:11:50.710 [main] StepDefinition - clicks on submit
+[INFO ] 2025-07-31 17:11:50.711 [main] StepDefinition - before step executed
+[INFO ] 2025-07-31 17:11:50.713 [main] StepDefinition - user validates main header
+[INFO ] 2025-07-31 17:11:50.714 [main] StepDefinition - tear down method
